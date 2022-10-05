@@ -4,32 +4,38 @@ the python crawler obtains data from the two mainstream rental markets in Hong K
 
 ## data soure
 web scraping was basing on the BS4 and Parsel,using pycharm, and data was deriving in squarefoot and 28Hse
-(第五页两张图)
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/5-1.png)
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/5-2.png)
+
 
 **data sample**<br>
-第6页两张图
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/6-1.png)
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/6-2.png)
+
 
 **data show**
-第7页图
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/7.png)
 
 ## data visualization
-**housing resource distributino in regions**<br>
-pic in 10
+**housing resource distribution in regions**<br>
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/10-1.png)
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/10-2.png)
+
 
 **housing resource dist in regions and price**<br>
 (size of circle represent the price)
-pic in 11
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/11.png)
 
 **proportion of room num
-pic in 12-1
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/12-1.png)
 
 **num of different house type
-pic in 12-2
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/12-2.png)
 
 
 ## linear regression performance
 R-squared =0.81 means independent variables in the linear regression model explains 81% of the variability in the dependent variable.
-pic in 20
+![image](https://github.com/ambiguousguy/Hongkong-rental-market-analysis/blob/main/pic/20.png)
 
 
 
