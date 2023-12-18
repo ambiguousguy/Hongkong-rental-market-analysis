@@ -7,7 +7,7 @@ import pandas as pd
 
 ##  this function is to get the data from the gaode api, the input parameter is the address, which is the property name we get from the previous
 def gaodde(address):
-    parameters = {'key': 'd8b26ae3b70ae5a74518831fce786e42','address': address }
+    parameters = {'key': '','address': address }
     base = 'https://restapi.amap.com/v3/geocode/geo'
     response = requests.get(base,parameters)
     answer = response.json()
