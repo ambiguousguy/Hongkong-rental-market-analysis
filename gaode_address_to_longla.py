@@ -24,7 +24,7 @@ def get_20_location(block_num):
 
 # location_test='114.163825,22.276284|114.027788,22.292031'
 def gaodde(location):
-    parameters = {'key': 'd8b26ae3b70ae5a74518831fce786e42','location': location,'batch':'true'}
+    parameters = {'key': '','location': location,'batch':'true'}
     base = 'https://restapi.amap.com/v3/geocode/regeo'
     response = requests.get(base,parameters)
     answer = response.json()
